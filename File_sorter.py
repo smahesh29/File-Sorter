@@ -8,7 +8,7 @@ current = os.getcwd()
 files=os.listdir(current)
 
 images=[".jpeg",".png",".jpg"] #extensions for images
-text=[".doc",".txt",".pdf",".xlsx",".docx",".xls"] #extensions for text files
+text=[".doc",".txt",".pdf",".xlsx",".docx",".xls",".rtf"] #extensions for text files
 videos=[".mp4",".mkv",".gif"] #extensions for videos
 sounds=[".mp3",".wav",".m4a"] #extensions for sounds
 applications=[".exe",".lnk"] #extensions for applications
