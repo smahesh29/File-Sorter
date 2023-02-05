@@ -6,10 +6,3 @@ Keep the files you wants to sort in Download folder. After running the program, 
 # Demo :
 
 ![](https://github.com/smahesh29/File-Sorter/blob/master/Images/File_sorter.py%20-%20File%20Sortor%20-%20Visual%20Studio%20Code.gif)
-
-# Support :
-If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
-<ul>
-    <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
-</ul>
-
